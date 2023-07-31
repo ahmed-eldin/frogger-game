@@ -1,5 +1,5 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="647" alt="Screenshot 2023-07-31 at 4 27 50 PM" src="https://github.com/ahmed-eldin/frogger-game/assets/111728755/c1596628-a821-478c-ae7b-10563811d281">
 
 
 # JavaScript Frogger Game
